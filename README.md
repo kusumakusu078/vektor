@@ -1,2 +1,2 @@
 # vektor
-SIH Hackathon 
+SIH Internal Hackathon 
